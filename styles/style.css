@@ -36,6 +36,7 @@
 .profile__text {
    display: flex;
    flex-direction: column;
+   flex-shrink: 0;
 }
 .icon {
  display: flex;
