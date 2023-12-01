@@ -1,2 +1,2 @@
 # 2023-p2a-web-youtube-FilipHudec
-Mojen youtube webová stránka:  
+Moje youtube webová stránka:  https://pslib-cz.github.io/2023-p2a-web-youtube-FilipHudec/
