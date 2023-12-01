@@ -18,6 +18,7 @@
 .ytv__bottom {
     display: flex;
     justify-content: space-between;
+    gap: 6em;
 }
 .ytv__left {
     display: flex;
