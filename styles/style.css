@@ -11,14 +11,12 @@
 .ytv {
     display: flex;
     flex-direction: column;
-    align-items: flex-start;
-    justify-content: flex-start;
-    gap: 1em;
+    justify-content: space-between;
+    gap: 2em;
 }
 .ytv__bottom {
     display: flex;
     justify-content: space-between;
-    gap: 6em;
 }
 .ytv__left {
     display: flex;
@@ -29,7 +27,7 @@
    display: flex;
    align-items: center;
    gap: 1em;
-
+   
 }
 .profile {
    display: flex;
